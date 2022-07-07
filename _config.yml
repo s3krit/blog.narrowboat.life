@@ -1,10 +1,10 @@
-title: punk.voyage
+title: blog.punk.voyage
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog following the journey and adventures of Martin and Erin aboard their
   52ft narrowboat 'Carla'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://punk.voyage" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.punk.voyage" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s3krit
 github_username: s3krit
 
