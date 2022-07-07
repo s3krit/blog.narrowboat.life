@@ -8,7 +8,7 @@ url: "https://blog.punk.voyage" # the base hostname & protocol for your site, e.
 twitter_username: s3krit
 github_username: s3krit
 
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
