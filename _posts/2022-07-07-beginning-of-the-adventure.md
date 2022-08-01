@@ -5,7 +5,7 @@ title: "The beginning of the adventure"
 
 This is the beginning of our next adventure. On Saturday the 2nd of July 2022,
 my wife Erin and I got the keys to our newly-purchased narrowboat 'Carla'. This
-~17-ton steel box will be our home for the next few months, until the British
+~15-ton steel box will be our home for the next few months, until the British
 winter starts looming, forcing us to flee to warmer (and drier!) pastures.
 
 We've been trying to decide what the next thing for us to do is, having both
@@ -43,8 +43,9 @@ weeds up enough to regain forward movement and turning. It might not clear the
 prop entirely, but it's often good enough that you can carry on until a better
 time to pop into the weed hatch presents itself.
 
-![A boat with a way cooler paint job than ours](/images/01-cool-boat.jpeg) _A
-boat with a way cooler paint job than ours_
+![A boat with a way cooler paint job than ours](/images/01-cool-boat.jpeg)
+
+_A boat with a way cooler paint job than ours_
 
 The journey north after turning at Cowley Peachey Junction was much more
 pleasant, and felt a lot more familiar to us. It was fairly easy going, with
