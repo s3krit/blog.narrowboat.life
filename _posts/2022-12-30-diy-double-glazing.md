@@ -17,10 +17,11 @@ is in the US getting UK visa stuff sorted. Around mid-December we got a pretty
 severe cold snap, with our new onboard weather station reporting temperatures of
 -10C! The section of canal I'm currently on - the Trent and Mersey anyway from
 Shardlow to Willington - froze over almost completely. Not that it mattered,
-further progress was hindered by the closer of bring 20A. Which didn't bother me
-anyway, I had nowhere to be and was content to stay cozy in my little steel tube
-with the cat. Oh yeah, there's a cat now. More on that in another post maybe. We
-rescued him at a lock just south of Leicester and he's called Scraps.
+further progress was hindered by the closure of bridge 20A (which has
+subsequently been cleared). Which didn't bother me anyway, I had nowhere to be
+and was content to stay cozy in my little steel tube with the cat. Oh yeah,
+there's a cat now. More on that in another post maybe. We rescued him at a lock
+just south of Leicester and he's called Scraps.
 
 ![The frozen canal by Stenson](/images/03-frozen-stenson.jpg)
 
@@ -58,11 +59,12 @@ condensation considerably and _hopefully_ keep the boat much warmer!
 
 ## Materials
 
-We purchased 6 sheets of (size) plexiglass from (website). In addition to this,
-we purchased two-part magnetic tape - two rolls of (length). This is separated
-into 'A' and 'B' strips, with one strip being able to magnetically connect to
-the other. During building I would need to ensure that all the windows ended up
-with the same strip, and the frames with the other strip.
+We purchased 6 sheets of 1000mm x 500mm plexiglass from
+[sheetplastics.co.uk](sheetplastics.co.uk). In addition to this, we purchased
+two-part magnetic tape - two rolls of 10M. This is separated into 'A' and 'B'
+strips, with one strip being able to magnetically connect to the other. During
+building I would need to ensure that all the windows ended up with the same
+strip, and the frames with the other strip.
 
 ![6 sheets of acrylic](/images/03-acrylic.jpg)
 
@@ -74,7 +76,7 @@ _A pile of the magnetic strips, already cut to length by me. The two sides are
 differentiatable by site. Side B has a line through the middle_
 
 Other than that, the only additional thing required was a sharp knife and some
-pliars (I used my Leatherman Sidekick for both of these roles) and some sort of
+pliers (I used my Leatherman Sidekick for both of these roles) and some sort of
 template for cutting the curved corners from the acrylic. As luck would have it,
 our small plates from the kitchen just happen to be basically the exact size, so
 I used those! If you're not so lucky, I'm not sure what else you could use. Have
@@ -98,7 +100,7 @@ _Scoring the acrylic using the plate as a template_
 Now comes the scary bit! Grab the corner of the acrylic and bend! If you've
 scored it deep enough, eventually it will break and _mostly_ follow the scoring.
 Mine never followed it exactly, but would never go deeper than the score. In
-order to remove the remaining excess acrylic up to the score, grab your pliars.
+order to remove the remaining excess acrylic up to the score, grab your pliers.
 Position them as close as you can to the score, as pictured, and bend away from
 the score (in my case, down to the carpet). The acrylic should snap off and
 again, follow the score. This isn't absolutely perfect and requires a little
@@ -111,9 +113,9 @@ brittle acrylic apart. Once you're happy, remove the protective plastic from
 
 _Bending the acrylic to break it along the score_
 
-![Using pliars to clean up the excess unbroken acrylic](/images/03-pliars.jpg)
+![Using pliers to clean up the excess unbroken acrylic](/images/03-pliers.jpg)
 
-_Using pliars to clean up the excess unbroken acrylic_
+_Using pliers to clean up the excess unbroken acrylic_
 
 Once the acrylic is now basically the shape of the window (at this point you'll
 probably want to check that is the case), we need to cut the magnetic strip to
