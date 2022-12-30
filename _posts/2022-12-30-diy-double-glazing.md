@@ -13,13 +13,13 @@ CONTENT!
 ## Intro and The Plan
 
 It's now late December in the UK and I'm currently on the boat alone while Erin
-gets US visa stuff sorted. Around mid-December we got a pretty severe cold snap,
-with our new onboard weather station reporting temperatures of -10C! The section
-of canal I'm currently on - the Trent and Mersey anyway from Shardlow to
-Willington - froze over almost completely. Not that it mattered, further
-progress was hindered by the closer of bring 20A. Which didn't bother me anyway,
-I had nowhere to be and was content to stay cozy in my little steel tube with
-the cat. Oh yeah, there's a cat now. More on that in another post maybe. We
+is in the US getting UK visa stuff sorted. Around mid-December we got a pretty
+severe cold snap, with our new onboard weather station reporting temperatures of
+-10C! The section of canal I'm currently on - the Trent and Mersey anyway from
+Shardlow to Willington - froze over almost completely. Not that it mattered,
+further progress was hindered by the closer of bring 20A. Which didn't bother me
+anyway, I had nowhere to be and was content to stay cozy in my little steel tube
+with the cat. Oh yeah, there's a cat now. More on that in another post maybe. We
 rescued him at a lock just south of Leicester and he's called Scraps.
 
 ![The frozen canal by Stenson](/images/03-frozen-stenson.jpg)
