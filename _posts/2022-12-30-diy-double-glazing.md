@@ -85,7 +85,7 @@ the right radius.
 
 _A perfectly sized plate, look at that!_
 
-## Method
+## Method
 
 Since we don't need to cut the sheets to size, we're saved a lot of work. In
 order to cut the acrylic, I positioned the plate correctly and used my knife to
