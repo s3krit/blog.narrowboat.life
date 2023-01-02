@@ -60,11 +60,11 @@ condensation considerably and _hopefully_ keep the boat much warmer!
 ## Materials
 
 We purchased 6 sheets of 1000mm x 500mm plexiglass from
-[sheetplastics.co.uk](sheetplastics.co.uk). In addition to this, we purchased
-two-part magnetic tape - two rolls of 10M. This is separated into 'A' and 'B'
-strips, with one strip being able to magnetically connect to the other. During
-building I would need to ensure that all the windows ended up with the same
-strip, and the frames with the other strip.
+[sheetplastics.co.uk](https://sheetplastics.co.uk). In addition to this, we
+purchased two-part magnetic tape - two rolls of 10M. This is separated into 'A'
+and 'B' strips, with one strip being able to magnetically connect to the other.
+During building I would need to ensure that all the windows ended up with the
+same strip, and the frames with the other strip.
 
 ![6 sheets of acrylic](/images/03-acrylic.jpg)
 
