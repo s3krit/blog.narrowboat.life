@@ -1,10 +1,10 @@
-title: blog.punk.voyage
+title: blog.narrowboat.life
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog following the journey and adventures of Martin and Erin aboard their
-  52ft narrowboat 'Carla'
+  52ft narrowboat 'Why Wait?'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.punk.voyage" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.narrowboat.life" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s3krit
 github_username: s3krit
 
@@ -45,4 +45,4 @@ jekyll-archives:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-tactile
+theme: jekyll-whiteglass
